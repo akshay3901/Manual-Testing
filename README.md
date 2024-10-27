@@ -14,8 +14,8 @@ Purpose of this project is all about getting clear understanding of Software sys
                            documents and parellely we need to identify scenarios.
 		                       In this phase we need to prepare Requirement Traceability Metrix (RTM)
 		                       
-                            Required:- SRS FRS or Fuctional Non functional Doc, acceptance criteria must clear
-                            Deliverables :- Reviewed requirements and scenarios, RTM
+                Required:- SRS FRS or Fuctional Non functional Doc, acceptance criteria must clear
+                Deliverables :- Reviewed requirements and scenarios, RTM
                             
 
 **3. Test Planning** => In this phase we need to create Test plan docuement that describes scope, strategies, resources, env required for testing.
